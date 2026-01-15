@@ -60,6 +60,6 @@ Session management and security redirection based on roles.
 
 📸 **Screenshots**
 
-All images are stored in the lms_images folder.
+All images are stored in the **lms_images** folder.
 
 Developed by **Sumama Sonia**
