@@ -1,18 +1,18 @@
-🎓 **University Learning Management System (LMS)**
+# 🎓 University Learning Management System (LMS)
 
 A comprehensive, role-based Learning Management System built with **Core PHP**, **MySQL**, and **Tailwind CSS**. This project streamlines university operations by connecting Admins, Faculty, and Students in a single digital environment.
 
 
-🚀 **Features**
+## 🚀 Features
 
-🔐 **Multi-Role Authentication**
+### 🔐 Multi-Role Authentication
 
 Secure login system for **Admin**, **Faculty,** and **Students**.
 
 Session management and security redirection based on roles.
 
 
-🛠 **Admin Module**
+### 🛠 Admin Module
 
 **User Management:** Add, Edit, and Delete Students and Faculty members.
 
@@ -21,7 +21,7 @@ Session management and security redirection based on roles.
 **System Overview:** Dashboard with real-time statistics.
 
 
-👨‍🏫 **Faculty Module**
+### 👨‍🏫 Faculty Module
 
 **Role Separation:** Distinction between Instructors and Focal Persons.
 
@@ -29,24 +29,24 @@ Session management and security redirection based on roles.
 
 **Department Logic:** Posts are automatically tagged to the faculty's specific department.
 
-🎓 **Student Module**
+### 🎓 Student Module
 
 **Personal Dashboard:** View profile details and academic status.
 
 **Smart Feed:** View news and events specific to their department.
 
 
-🎨 **UI/UX Themes**
+## 🎨 UI/UX Themes
 
 **Nexus Academy:** Modern Teal & Slate interface with Sidebar.
 
 
-💻 **Tech Stack**
+## 💻 Tech Stack
 
 **Frontend:** HTML5, Tailwind CSS, FontAwesome.
 
 
-⚙️ **Installation Guide**
+## ⚙️ Installation Guide
 
 **Download:** Clone this repository or download ZIP.
 
@@ -58,7 +58,7 @@ Session management and security redirection based on roles.
 
 **Admin Login:** admin@nexus.edu / admin123
 
-📸 **Screenshots**
+## 📸 Screenshots
 
 All images are stored in the **lms_images** folder.
 
